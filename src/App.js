@@ -11,6 +11,7 @@ import { createContext,setData } from 'react';
 import axios from 'axios';
 import Products from './components/Products';
 import  { Users }  from './components/Users';
+import { Add } from './components/Add';
 export const store=createContext();
 
 
@@ -38,7 +39,7 @@ let students=[
     {/* <Hooks/> */}
     
     <Users/>
-   
+   <Add/>
     
    <Routes>
     <Route path="/" element={<Home/>}/>

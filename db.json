@@ -16,16 +16,16 @@
   "profile": {
     "name": "typicode"
   },
-  "users":[
+  "users": [
     {
-        "name":"venu",
-        "age":20
+      "name": "iop[",
+      "roll": "604",
+      "id": 1
     },
     {
-      "name":"Tarak",
-      "age":19
-  }]
-
-  
+      "name": "venu",
+      "roll": "44",
+      "id": 2
+    }
+  ]
 }
-

@@ -18,7 +18,7 @@ export const Users = () => {
             userData.map((e,i)=>{
                 return(
                     <>
-                    <h1>{e.age} -- {e.name}</h1>
+                    <h1>{e.roll} -- {e.name}</h1>
                     </>
                 )
             })
