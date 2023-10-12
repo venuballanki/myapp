@@ -17,6 +17,15 @@
     "name": "typicode"
   },
   "users": [
-    
+    {
+      "name": "venu",
+      "roll": "604",
+      "id": 1
+    },
+    {
+      "name": "tarak",
+      "roll": "634",
+      "id": 2
+    }
   ]
 }

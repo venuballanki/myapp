@@ -34,6 +34,7 @@ let students=[
     {/* <store.Provider value={[data,setData]}> */}
     <div className='row'>
     <Header/>
+   
     {/* <Products/> */}
     {/* <Conexpo/> */}
     {/* <Hooks/> */}
@@ -42,7 +43,7 @@ let students=[
    <Add/>
     
    <Routes>
-    <Route path="/" element={<Home/>}/>
+    <Route path="/*" element={<Home/>}/>
     <Route path="/Shorts" element={<Shorts/>}>
     
     </Route>
